@@ -77,9 +77,13 @@ nav{
   /*------------------------------------------------------------------------------------*/
 
   #underheader{
-      padding:50px;
+      padding:160px 0px 60px 0px;
+      /* margin-top: 150px; */
       /* margin-top:50px ; */
-      float:left;
+      /* float:left; */
+   
+      
+
   }
   .underHeader{
       font-size: 30px;
@@ -88,10 +92,10 @@ nav{
       color:black;
       /* border: 1px solid tomato;
       border-radius: 45px; */
-      background-color: rgb(45 214 45);
-     
+      background-color: rgb(45,214,45);
+      
       padding: 3px;
-      text-align: center;
+      /* text-align: center; */
   }
 
 /*------------------------------------------------------------------------------------*/
