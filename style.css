@@ -97,7 +97,7 @@ nav{
 /*------------------------------------------------------------------------------------*/
 aside{
     width: 330px;
-    height: auto;
+    /* height: auto; */
     float: left;
     /* margin-top: 15px; */
 }
@@ -177,7 +177,7 @@ div p  {
 /*------------------------------------------------------------------------------------------------------------*/
 main{
     width: 670px;
-    height: auto;
+    /* height: auto; */
     /* background-color: tomato; */
     float: right;
   
@@ -190,7 +190,7 @@ main{
     margin-top: 0px;
     margin-left: 15px;
     width: 650px;
-    height: auto;
+    /* height: auto; */
    
     /* background:rgb(84, 230, 84) ; */
     /* text-align: left; */
